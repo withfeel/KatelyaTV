@@ -1,8 +1,8 @@
-name = "katelyatv"
+name = "NEWTV"
 compatibility_date = "2024-09-01"
 
 [env.production]
-name = "katelyatv"
+name = "NEWTV"
 
 [env.production.vars]
 # 存储类型配置
